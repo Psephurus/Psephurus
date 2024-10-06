@@ -1,4 +1,4 @@
-## *随波转薄，有似客游。*<p align="right"> ![](https://komarev.com/ghpvc/?username=Psephurus) </p>
+## *我的老天奶！*<p align="right"> ![](https://komarev.com/ghpvc/?username=Psephurus) </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psephurus&layout=compact&theme=tokyonight" width="40%">
 
